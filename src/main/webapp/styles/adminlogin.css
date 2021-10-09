@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #b3b3b3;
+    font-family: "Lato", "Arial", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+} 
+
+.admin-loginpanel {
+	margin: auto;
+	margin-top: 30px;
+    height: auto;
+    width: 320px;
+    background: #f2f2f2;
+    padding: 15px 15px;
+}
+
+.loginh1 {
+	color: #ff471a;
+	text-align: center;
+	margin-bottom: 18px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+}
+
+.aluname {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.logininput {
+	width:95%;
+    background-color: rgba(209, 209, 209, 0.72);
+    border: 1px solid #9d9d9d;
+    padding: 3px;
+}
+
+.loginbtn {
+	border-style: none;
+	color: #f2f2f2;
+	margin-left: 90px;
+    display: inline-block;
+    padding: 10px 25px;
+    border-radius: 200px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #ff8533;
+    margin-bottom: 10px;
+    letter-spacing: 1.5px;
+}
+
+.loginbtn:hover {
+    background-color: #cc6b15;
+    color: #fff;
+    border-color: #cc6b15;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+
+.homebtn {
+	border-style: none;
+	color: #000;
+	margin-left: auto;
+	margin-right: auto;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 200px;
+    font-size: 10px;
+    font-weight: bold;
+    background-color: #a3a375;
+    margin-top: 10px;
+    letter-spacing: 1.5px;
+    border-color : #a3a375;
+}
+
+.homebtn:hover {
+    background-color: #7a7a52;
+    color: #fff;
+    border-color: #7a7a52;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+
+
+
+
+
+
+
